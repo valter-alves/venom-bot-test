@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "venom-bot": "^4.2.0"
+  }
+}
