@@ -55,5 +55,8 @@ module.exports ={
     createConnection,
     setUser,
     getUser,
-
+    getReply,
+    getStatus,
+    setStatusOn,
+    setStatusOff
 }
